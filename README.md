@@ -10,7 +10,7 @@ This README file includes instructions on how to compile, run, and play the asso
 Skyward Bound is desgined to be an immersive platformer experience with user-friendly elements. Players will navigate through a GUI and levels which pose different challenges, enemies and power-ups.
  
  
-Table of Contents
+**Table of Contents**
 * Requirements
 * Installation
 * Running the Game
@@ -20,13 +20,13 @@ Table of Contents
 * Credits
  
  
-Requirements
+**Requirements**
 Before beginning, ensure you have the following installed:
 * Git: version control intended to clone the repo
 * SFML: graphics and audio library
 * C++ Compiler: preferrable one that supports C++11 (e.g. GCC, Clang)
  
-Installation
+**Installation**
 1. Clone the Repository:
 git clone [https://github.com/usman-zaka/skyward-bound]
  
@@ -38,29 +38,29 @@ git clone [https://github.com/usman-zaka/skyward-bound]
 g++ -o game  main.cpp gameEngine.cpp Button.cpp Level.cpp Character.cpp Block.cpp Player.cpp Item.cpp powerUp.cpp Enemy.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
  
-Running the Game
+**Running the Game**
 After the installation is complete, you can run the game in the terminal using the following command:
 ./game
  
-Controls
+**Controls**
 * W,D: Move left and move right
 * Spacebar: Jump
 * Mouse: Navigate menus
  
  
-Gameplay Tips
+**Gameplay Tips**
 * Avoid Enemies: Jump on enemies to kill them or avoid them to avoid losing lives.
 * Flag: Each level is completed by reaching the flag. Complete the level as fast as possible
 * Power-Ups: Collect fruit power-ups to gain special abilities.
 * Player will drown in the water.
  
  
-Navigation
+**Navigation**
 * Initial Menu: Create a new game or load an existing game.
 * Level Menu: Choose to play a level
  
  
-Credits
+**Credits**
 * Game Development: Muhammad Usman Zaka, Andrew Wong, Vinh Bui
 * Graphics: Deep AI (public domain), Brackeys' Platformer Bundle (Creative Commons Zero (CC0) license), Daniel Tołwiński, Charles-wildmore, Free Sky Backgrounds- itch.io
 * Music: Brackeys' Platformer Bundle (Creative Commons Zero (CC0) license)
