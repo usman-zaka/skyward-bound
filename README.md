@@ -1,5 +1,5 @@
 # Skyward Bound 
-The OOP Project for Andrew, Vinh, and Usman
+The OOP Project created by Muhammad Usman Zaka, Andrew Wong, Vinh Bui
 
 README
  
@@ -61,6 +61,6 @@ Navigation
  
  
 Credits
-* Game Development: Andrew Wong, Vinh Bui, Muhammad Usman Zaka
+* Game Development: Muhammad Usman Zaka, Andrew Wong, Vinh Bui
 * Graphics: Deep AI (public domain), Brackeys' Platformer Bundle (Creative Commons Zero (CC0) license), Daniel Tołwiński, Charles-wildmore, Free Sky Backgrounds- itch.io
 * Music: Brackeys' Platformer Bundle (Creative Commons Zero (CC0) license)
