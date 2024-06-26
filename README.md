@@ -39,6 +39,7 @@ g++ -o game  main.cpp gameEngine.cpp Button.cpp Level.cpp Character.cpp Block.cp
 
  
 **Running the Game**
+
 After the installation is complete, you can run the game in the terminal using the following command:
 ./game
  
