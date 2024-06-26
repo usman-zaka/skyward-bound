@@ -28,14 +28,13 @@ Before beginning, ensure you have the following installed:
  
 Installation
 1. Clone the Repository:
-git clone https://github.com/muhammadusman-zaka/oop_project.git
-cd oop_project
+git clone [https://github.com/usman-zaka/skyward-bound]
  
 2. Compile the Game:
-[USING INCLUDED MAKEFILE] (MacOs Users)
-make
+[MACOS] (Compile using Makefile)
+
  
-[USING G++] (Windows/Linux Users)
+[WINDOWS/LINUX USERS] (Use the command below)
 g++ -o game  main.cpp gameEngine.cpp Button.cpp Level.cpp Character.cpp Block.cpp Player.cpp Item.cpp powerUp.cpp Enemy.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
  
  
