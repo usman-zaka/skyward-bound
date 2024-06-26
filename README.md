@@ -30,7 +30,7 @@ Installation
 1. Clone the Repository:
 git clone [https://github.com/usman-zaka/skyward-bound]
  
-2. Compile the Game:
+2. Compile the Game: See instructions below
 
 [MACOS] (Compile using Makefile)
 
