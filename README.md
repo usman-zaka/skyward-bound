@@ -21,6 +21,7 @@ Skyward Bound is desgined to be an immersive platformer experience with user-fri
  
  
 **Requirements**
+
 Before beginning, ensure you have the following installed:
 * Git: version control intended to clone the repo
 * SFML: graphics and audio library
@@ -35,6 +36,7 @@ git clone [https://github.com/usman-zaka/skyward-bound]
 [MACOS] (Compile using Makefile)
 
 [WINDOWS/LINUX USERS] (Use the command below)
+
 g++ -o game  main.cpp gameEngine.cpp Button.cpp Level.cpp Character.cpp Block.cpp Player.cpp Item.cpp powerUp.cpp Enemy.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
  
