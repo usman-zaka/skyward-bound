@@ -1,0 +1,19 @@
+Tester 1 Name: 
+Andrew Bui 
+ 
+Tester 1 Feedback:  
+The graphics rendering for plat-former game Skyward Bound is of high quality, offering a very engaging user experience. I especially appreciate the touch of adding a dynamic camera that tracks the movement of the player as opposed to a static screen as it further adds a sense of immersion to the game. However, an issue that I encountered in the playthrough was when the jump and move right keys were held simultaneously; the character would stop moving and not continue right in mid-air.  In order to proceed with moving, the right key had to be release and pressed again for the character to continue moving. This issue interrupts the fluidity of the player movement and disrupts the gameplay flow. Generally speaking, the game is thoughtfully executed, but the issue with the player control would greatly improve the player’s interaction with more difficult levels. 
+ 
+ 
+Tester 2 Name: 
+Raad Rahman
+ 
+Tester 2 Feedback:
+The game featured a pleasing pixel theme that was carried out consistently through the game menu and level design, giving it a 8-bit vibe. The gravity mechanics were done well as the player does not instantly crash to the floor. The falling motion was rather smooth and the player is able to land onto other blocks without any issues or bugs, which is vital for an adventure platform game. During my time of testing, I noticed that the player was not able to fall off the blocks after the walked off the edge which detracts from the realism. Fixing this feature would improve the core mechanics of the game. 
+ 
+ 
+Tester 3 Name: 
+Daniel Lim 
+ 
+Tester 3 Feedback: 
+In my playthrough, I found that the power-ups were quite unclear and it took me a while to realise what changes each fruit made on the character. Once I understood though, it presented an exciting opportunity to push the boundaries of the gameplay. The inclusion of tracking the time to be recorded as a score to be displayed at the end (victory screen) was satisfying. It incentivised deployability and I found myself replaying the game many times to earn a better score. The game also presents a well-balanced level design consisting of obstacles (blocks) and enemies. These carefully placed sprites offer the right amount of challenging for the player, with further options in the menu screen. 

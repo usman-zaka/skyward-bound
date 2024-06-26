@@ -1,0 +1,13 @@
+Initially things were going well but then we realised there was simply not enough time to implement everything. And hence due to time constraints the following features have to be forgone: 
+
+Our main goal was to deliver an immersive experience and an appealing GUI and I think we have achieved that. However given the time constraints we have to let go of the below features as we simply lack the time to implement them. 
+
+Leaderboard
+Load level 
+Hard level 
+Shoot Enemy
+ 
+ 
+The following features have been added: 
+Game over and victory screens 
+Centred backdrop that moves along with the character 
