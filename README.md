@@ -31,12 +31,12 @@ Installation
 git clone [https://github.com/usman-zaka/skyward-bound]
  
 2. Compile the Game:
+
 [MACOS] (Compile using Makefile)
 
- 
 [WINDOWS/LINUX USERS] (Use the command below)
 g++ -o game  main.cpp gameEngine.cpp Button.cpp Level.cpp Character.cpp Block.cpp Player.cpp Item.cpp powerUp.cpp Enemy.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
- 
+
  
 Running the Game
 After the installation is complete, you can run the game in the terminal using the following command:
